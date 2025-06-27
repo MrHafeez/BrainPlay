@@ -3,7 +3,7 @@
 BrainPlay: Win or Lose - Main Entry Point
 Enhanced with score reset option after game completion.
 
-Author: Python AI Mentor
+Author: Mr Hafeez
 Version: 2.2.1
 """
 
